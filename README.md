@@ -5,17 +5,12 @@ Visulaizing different sorting methods like Bubble Sort, Quick Sort, Merge Sort w
 - visualize sorting algorithms
 - rearrange blocks with reset button
 
-
-# Filology
-
-It is a simple Tkinter based file management GUI.
-
 ## Demo
 
 Link to demo
 
-https://drive.google.com/file/d/1iNf74NqU1ZWMKS7bjM_w0mOMbkT4JV9b/view?usp=sharing
-
+[https://drive.google.com/file/d/1iNf74NqU1ZWMKS7bjM_w0mOMbkT4JV9b/view?usp=sharing
+](https://drive.google.com/file/d/1ic6aCzSUsHyiT0YmSzTMwJ2J0Ru26ZFl/view?usp=sharing)
 
 ## Screenshots
 
