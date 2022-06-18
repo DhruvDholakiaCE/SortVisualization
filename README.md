@@ -1,7 +1,7 @@
 # SortVisualization
 Visulaizing different sorting methods like Bubble Sort, Selection, Quick Sort, Merge Sort with Tkinter python module.
 
-# Features
+## Features
 - Visualize sorting algorithms
 - Rearrange blocks with reset button
 
